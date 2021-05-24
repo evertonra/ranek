@@ -38,7 +38,7 @@ export default {
 
 <style scooped>
 h2 {
-  text-align: center;
+  text-align: left;
   margin-top: 40px;
   margin-bottom: 10px;
 }
